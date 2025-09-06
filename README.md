@@ -13,11 +13,11 @@ A **simple and interactive calculator** built with **HTML, CSS, and JavaScript**
 
 ---
 
-## 🚀 Demo
+## 🚀 Live Demo
 
 Check out the live demo here:  
 
-[🌐 Live Demo](#)  
+[https://alkeshsrivastava1214-boop.github.io/CodeAlpha_Calculator/]  
 
 ---
 
