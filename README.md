@@ -17,7 +17,7 @@ A **simple and interactive calculator** built with **HTML, CSS, and JavaScript**
 
 Check out the live demo here:  
 
-[https://alkeshsrivastava1214-boop.github.io/CodeAlpha_Calculator/]  
+[https://alkeshsrivastava1214-boop.github.io/CodeAlpha_Task2_Calculator/)]  
 
 ---
 
